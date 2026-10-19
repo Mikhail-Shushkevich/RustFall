@@ -1,0 +1,23 @@
+# Unreal Engine generated / build artifacts
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio / Rider
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+
+# Misc
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+Thumbs.db
